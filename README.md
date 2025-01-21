@@ -501,4 +501,4 @@ print(synthesizer.generate())
 ```
 
 # Contribute
-Please install and use symanto-dev-tools for correctly formatting the code when contributing to this repo.
+Please install and use dev-tools for correctly formatting the code when contributing to this repo.
