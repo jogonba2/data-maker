@@ -52,17 +52,6 @@ Some related papers:
 
 Requirement: python >= 3.10
 
-To install DataMaker, define the PIP_EXTRA_INDEX_URL environment variable:
-
-```bash
-export PIP_EXTRA_INDEX_URL='https://YOUR-PAT-TOKEN@pkgs.dev.azure.com/symanto/_packaging/Research/pypi/simple'
-```
-
-## Install with pip
-```bash
-$ pip install symanto-datamaker
-```
-
 ## Install from source
 ```bash
 $ pip install -e .
